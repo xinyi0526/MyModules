@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="tv1">C346 Android Programming</string>
+    <string name="tv2">C349 iPad Programming</string>
+    <string name="tv3">MCode</string>
+    <string name="tv4">MName</string>
+    <string name="year">AYear</string>
+    <string name="tv6">Sem</string>
+    <string name="tv7">Credit</string>
+    <string name="tv8">Venue</string>
+</resources>
